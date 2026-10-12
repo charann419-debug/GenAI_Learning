@@ -1,0 +1,17 @@
+.env
+
+
+#virtual environment
+.venv/
+venv/
+env/
+
+__pycache__/
+
+#VS Code settings
+.vscode/settings.json   
+
+#os files
+# DS_Store #mac
+#win
+Thumbs.db 
