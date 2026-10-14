@@ -1,4 +1,4 @@
-.env
+ .env
 
 
 #virtual environment
@@ -9,7 +9,7 @@ env/
 __pycache__/
 
 #VS Code settings
-.vscode/settings.json   
+.vscode/settings.json    
 
 #os files
 # DS_Store #mac
